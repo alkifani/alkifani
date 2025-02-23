@@ -35,6 +35,14 @@ Check out my projects **[here](https://github.com/alkifani?tab=repositories)**! 
 
 ---
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/alkifani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alkifani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alkifani&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmadmufadhdhalalkifani/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ahmadmufadhdhal47@gmail.com)  
