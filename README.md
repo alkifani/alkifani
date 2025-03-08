@@ -46,6 +46,6 @@ Check out my projects **[here](https://github.com/alkifani?tab=repositories)**! 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmadmufadhdhalalkifani/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ahmadmufadhdhal47@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://github.com/alkifani)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=github)](https://sites.google.com/view/ahmadmufadhdhalalkifani/)  
 
 💡 *Always open to collaborations and exciting opportunities!*
