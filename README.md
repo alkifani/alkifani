@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm **Ahmad Mufadhdhal Alkifani**
 
 🚀 **Software Developer | Mobile App Developer | IoT Enthusiast**  
-🎓 **Computer Engineering Graduate | GPA: 3.58/4.00**
+🎓 **Computer Engineering Graduate**
 
 ---
 
